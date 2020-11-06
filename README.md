@@ -33,7 +33,7 @@
 <br>
 [1115029_02	سمينار	2](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/MscSeminar-1)
 <br>
-[درس سمينار ( تحقيق و تتبع نظري ) - 03-1115257	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/MscSeminar-2)
+[درس سمينار ( تحقيق و تتبع نظري ) - 03-1115257](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/MscSeminar-2)
 
 
 --------------
@@ -89,10 +89,10 @@
     <th>چهارشنبه</th>
   </tr>
    <tr>
-    <th ></th>
-     <th ></th>
-     <th ></th>
-     <th><th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies">متدولوژی ایجاد نرم افزار</a></th></th>
+    <th></th>
+     <th></th>
+     <th></th>
+     <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies">متدولوژی ایجاد نرم افزار</a></th>
     <th></th>
     <th>پنج شنبه</th>
   </tr>
