@@ -38,6 +38,21 @@ Design and Development of Web Information Systems - Klaus-Dieter Schewe, Bernhar
 
 ### Presentation
 
+   -  _01. [part1](https://github.com/taherimasoomeh475/PNU_3991_AR_/blob/main/book/part1_01.mp3)
+   -  _02. [part2](https://github.com/taherimasoomeh475/PNU_3991_AR_/blob/main/book/2_01.mp3)
+   -  _03. [part3](https://github.com/taherimasoomeh475/PNU_3991_AR_/blob/main/book/3_01.mp3)
+   -  _04. [part4](https://github.com/taherimasoomeh475/PNU_3991_AR_/blob/main/book/4_01.mp3)
+   -  _05. [part5](https://github.com/taherimasoomeh475/PNU_3991_AR_/blob/main/book/5_01.mp3)
+   -  _06. [part6](https://github.com/taherimasoomeh475/PNU_3991_AR_/blob/main/book/6_01.mp3)
+   -  _07. [part7](https://github.com/taherimasoomeh475/PNU_3991_AR_/blob/main/book/6_01.mp3)
+   -  _08. [Pdf Translate](https://github.com/taherimasoomeh475/PNU_3991_AR_/blob/main/book/%D8%AA%DA%A9%D9%87%20%D9%87%D8%A7%DB%8C%20%D9%85%D8%AD%D8%AA%D9%88%D8%A7%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%B5%D8%AD%D9%86%D9%87%20%D9%88%D8%B1%D9%88%D8%AF.pdf)
+   
+     
+-----------------------------------
+## G-SDM-05 : CHAPTER 05 : Design and Development of Web Information Systems - Klaus-Dieter Schewe, Bernhard Thalheim
+
+### Reading Book
+
    -  _01. [part1](https://github.com/taherimasoomeh475/PNU_3991_AR_/blob/main/Methodology/metodologi1.mp4)
    -  _02. [part2](https://github.com/taherimasoomeh475/PNU_3991_AR_/blob/main/Methodology/metodologi2.mp4)
    -  _03. [part3](https://github.com/taherimasoomeh475/PNU_3991_AR_/blob/main/Methodology/metodologi3.mp4)
@@ -148,9 +163,3 @@ Design and Development of Web Information Systems - Klaus-Dieter Schewe, Bernhar
     <th>پنج شنبه</th>
   </tr>
 </table>
-
-
-
- 
-
-
