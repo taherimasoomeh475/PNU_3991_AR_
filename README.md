@@ -26,12 +26,12 @@
     1. [_SDM-15_مرتضي زند](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/26_%D8%B3%D9%8A%D8%AF%D8%B9%D9%84%D9%8A%20%D9%85%D8%AD%D8%AA%D8%B1%D9%85%D9%8A)        
 
 
-<br>
+<br><div dir="rtl" align="justify">
 مطالعه کتاب های علمی
 Design and Development of Web Information Systems - Klaus-Dieter Schewe, Bernhard Thalheim
 هر تیم یک فصل را به زبان اصلی روخوانی نموده و برای هر بخش و زیر بخش در چند جمله خلاصه برداشت از مطالعه را به فارسی توضیح میدهد
 
-
+</div>
  ارزیابی
 <p style='bold'> بخش عمومی</p>
 	--------------------------
