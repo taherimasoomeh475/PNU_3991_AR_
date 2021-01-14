@@ -45,6 +45,11 @@ Design and Development of Web Information Systems - Klaus-Dieter Schewe, Bernhar
 
     G-SDM-01 : CHAPTER 05
 	--------------------------
+	## ارزیابی درس متادلوژی
+
+
+  
+   -  [متادلوژی](https://github.com/taherimasoomeh475/PNU_3991_AR_/blob/main/MT_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
 
 ## Chapter 23 : Rapid development methodologies
 
