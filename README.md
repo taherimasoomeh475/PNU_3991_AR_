@@ -43,13 +43,15 @@ Design and Development of Web Information Systems - Klaus-Dieter Schewe, Bernhar
    -  [ارزیابی رزومه و انگیزه نامه](https://github.com/taherimasoomeh475/PNU_3991_AR_/blob/main/_general/MT_CV_CheckList_AR_3991.pdf)
    -  [خلاصه ارزیابی بخش عمومی](https://github.com/taherimasoomeh475/PNU_3991_AR_/blob/main/_general/MT_GeneralSection_CheckList_AR_3991.pdf)
 
-    G-SDM-01 : CHAPTER 05
+   
 	--------------------------
 	## ارزیابی درس متادلوژی
 
 
   
    -  [متادلوژی](https://github.com/taherimasoomeh475/PNU_3991_AR_/blob/main/MT_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
+   --------------------------
+    G-SDM-01 : CHAPTER 05
 
 ## Chapter 23 : Rapid development methodologies
 
